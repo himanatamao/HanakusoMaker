@@ -16,3 +16,7 @@ body {
         margin-top: 2vh;
     }
 }
+
+#outputText {
+    margin-top: 10vh;
+}
